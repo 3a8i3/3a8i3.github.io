@@ -1,1 +1,51 @@
-[{"nombre":"David","apellido":"Ruiz Diaz"},{"nombre":"Diana","apellido":"Nuñez"},{"nombre":"Luna","apellido":"Ruiz Diaz"}]
+[
+	{
+		"musica": "Samson et Dalila Op 47 Act II Mon coeur souvre à ta voix",
+		"artista": "Orchestre National de la Radiodiffusion Francaise & Maria Callas & Georges Pretre",
+		"anho":"1997",
+		"portada":"img/samson.jpg",
+		"genero":"Opera"
+	},
+	{
+		"musica": "Symphony Of Destruction",
+		"artista": "Megadeth",
+		"anho":"1992",
+		"portada":"img/sod.jpg",
+		"genero":"Thrash metal"
+	},
+	{
+		"musica": "Concerto N. 4 en sol mayor - Allegro",
+		"artista": "Johann Sebastian Bach",
+		"anho":"1721",
+		"portada":"img/bach.jpg",
+		"genero":"Sinfonica"
+	},
+	{
+		"musica": "Hard Working Man",
+		"artista": "Left Lane Cruiser",
+		"anho":"2009",
+		"portada":"img/left.jpg",
+		"genero":"Blues rock"
+	},
+	{
+		"musica": "Le veau d´or est toujours debout",
+		"artista": " Boris Christoff",
+		"anho":"1958",
+		"portada":"img/veau_d'or.jpg",
+		"genero":"Opera"
+	},
+	{
+		"musica": "Black Dog",
+		"artista": "Led Zeppelin",
+		"anho":"1971",
+		"portada":"img/blackDog.jpg",
+		"genero":""
+	},
+	{
+		"musica": "Black Dog",
+		"artista": "Led Zeppelin",
+		"anho":"1971",
+		"portada":"img/duality.jpg",
+		"genero":"Blues rock"
+	}
+]
