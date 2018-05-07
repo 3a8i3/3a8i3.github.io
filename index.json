@@ -11,7 +11,7 @@
 		"artista": "Megadeth",
 		"anho":"1992",
 		"portada":"img/sod.jpg",
-		"genero":"Thrash metal"
+		"genero":"Thrash-metal"
 	},
 	{
 		"musica": "Concerto N. 4 en sol mayor - Allegro",
@@ -25,7 +25,7 @@
 		"artista": "Left Lane Cruiser",
 		"anho":"2009",
 		"portada":"img/left.jpg",
-		"genero":"Blues rock"
+		"genero":"Blues-rock"
 	},
 	{
 		"musica": "Le veau d´or est toujours debout",
@@ -39,6 +39,6 @@
 		"artista": "Led Zeppelin",
 		"anho":"1971",
 		"portada":"img/blackDog.jpg",
-		"genero":""
+		"genero":"Blues-rock"
 	}
 ]
