@@ -5,7 +5,7 @@
 		"anho":"1996",
 		"portada":"https://3a8i3.github.io/img/samson.jpg",
 		"genero":"Opera",
-		"audio":"msc/sanson.mp3"
+		"audio":"https://3a8i3.github.io/msc/sanson.mp3"
 	},
 	{
 		"musica": "Symphony Of Destruction",
@@ -13,7 +13,7 @@
 		"anho":"1992",
 		"portada":"https://3a8i3.github.io/img/sod.jpg",
 		"genero":"Thrash-metal",
-		"audio":"./msc/sod.mp3"
+		"audio":"https://3a8i3.github.io/./msc/sod.mp3"
 	},
 	{
 		"musica": "Concerto N. 4 en sol mayor - Allegro",
@@ -21,7 +21,7 @@
 		"anho":"1721",
 		"portada":"https://3a8i3.github.io/img/bach.jpg",
 		"genero":"Sinfonica",
-		"audio":"msc/bach.mp3"
+		"audio":"https://3a8i3.github.io/msc/bach.mp3"
 	},
 	{
 		"musica": "Hard Working Man",
@@ -29,7 +29,7 @@
 		"anho":"2009",
 		"portada":"https://3a8i3.github.io/img/left.jpg",
 		"genero":"Blues-rock",
-		"audio":"msc/hardwm.mp3"
+		"audio":"https://3a8i3.github.io/msc/hardwm.mp3"
 	},
 	{
 		"musica": "Le veau d´or est toujours debout",
@@ -37,7 +37,7 @@
 		"anho":"1958",
 		"portada":"https://3a8i3.github.io/img/veau_d'or.jpg",
 		"genero":"Opera",
-		"audio":"msc/leveau.mp3"
+		"audio":"https://3a8i3.github.io/msc/leveau.mp3"
 	},
 	{
 		"musica": "Black Dog",
@@ -45,7 +45,7 @@
 		"anho":"1971",
 		"portada":"https://3a8i3.github.io/img/blackDog.jpg",
 		"genero":"Blues-rock",
-		"audio":"msc/blackdog.mp3"
+		"audio":"https://3a8i3.github.io/msc/blackdog.mp3"
 	},
 	{
 		"musica": "Duality",
@@ -53,6 +53,6 @@
 		"anho":"2003",
 		"portada":"https://3a8i3.github.io/img/duality.jpg",
 		"genero":"Nu-metal",
-		"audio":"msc/Duality.mp3"
+		"audio":"https://3a8i3.github.io/msc/Duality.mp3"
 	}
 ]
