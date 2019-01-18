@@ -3,7 +3,7 @@
 		"musica": "Samson et Dalila Op 47 Act II",
 		"artista": "Maria Callas",
 		"anho":"1996",
-		"portada":"img/samson.jpg",
+		"portada":"https://3a8i3.github.io/img/samson.jpg",
 		"genero":"Opera",
 		"audio":"msc/sanson.mp3"
 	},
@@ -11,7 +11,7 @@
 		"musica": "Symphony Of Destruction",
 		"artista": "Megadeth",
 		"anho":"1992",
-		"portada":"img/sod.jpg",
+		"portada":"https://3a8i3.github.io/img/sod.jpg",
 		"genero":"Thrash-metal",
 		"audio":"./msc/sod.mp3"
 	},
@@ -19,7 +19,7 @@
 		"musica": "Concerto N. 4 en sol mayor - Allegro",
 		"artista": "Johann Sebastian Bach",
 		"anho":"1721",
-		"portada":"img/bach.jpg",
+		"portada":"https://3a8i3.github.io/img/bach.jpg",
 		"genero":"Sinfonica",
 		"audio":"msc/bach.mp3"
 	},
@@ -27,7 +27,7 @@
 		"musica": "Hard Working Man",
 		"artista": "Left Lane Cruiser",
 		"anho":"2009",
-		"portada":"img/left.jpg",
+		"portada":"https://3a8i3.github.io/img/left.jpg",
 		"genero":"Blues-rock",
 		"audio":"msc/hardwm.mp3"
 	},
@@ -35,7 +35,7 @@
 		"musica": "Le veau d´or est toujours debout",
 		"artista": " Boris Christoff",
 		"anho":"1958",
-		"portada":"img/veau_d'or.jpg",
+		"portada":"https://3a8i3.github.io/img/veau_d'or.jpg",
 		"genero":"Opera",
 		"audio":"msc/leveau.mp3"
 	},
@@ -43,7 +43,7 @@
 		"musica": "Black Dog",
 		"artista": "Led Zeppelin",
 		"anho":"1971",
-		"portada":"img/blackDog.jpg",
+		"portada":"https://3a8i3.github.io/img/blackDog.jpg",
 		"genero":"Blues-rock",
 		"audio":"msc/blackdog.mp3"
 	},
@@ -51,7 +51,7 @@
 		"musica": "Duality",
 		"artista": "Slipknot",
 		"anho":"2003",
-		"portada":"img/duality.jpg",
+		"portada":"https://3a8i3.github.io/img/duality.jpg",
 		"genero":"Nu-metal",
 		"audio":"msc/Duality.mp3"
 	}
