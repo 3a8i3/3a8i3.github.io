@@ -1,0 +1,343 @@
+[
+	{
+		"titulo":"Cuentos de muerte y demencia",
+		"autor": {
+			"nombre":"Edgar Allan Poe",
+			"nacimiento":{
+				"fecha":"19 de enero de 1809",
+				"ciudad":"Boston",
+				"pais": "Estados Unidos",
+			},
+			"biografia:":"Poeta, narrador, periodista y crítico literario americano, Edgar Allan Poe es conocido por su narrativa de terror, horror romántica y su maestría del relato de influencia gótica, siendo considerado uno de los grandes maestros de la literatura universal y padre del género detectivesco.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/edgar-allan-poe-316.jpg"
+		},
+		"anho":"2012",
+		"editorial":"Nórdica",
+		"temas":"Cuentos y relatos",
+		"resumen":"Historias de amor perdido, y mentes también perdidas. El trabajo ¡de Grimly es misterioso, sus ilustraciones capturan los relatos clásicos Poe con un macabro encanto inigualable. Poe nunca ha sido tan aterrador como en este maravilloso cómic que ha recibido el aplauso de la crítica internacional.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/cuentos-de-muerte-y-demencia-78875.jpg"
+	},{
+		"titulo":"Apocalipsis",
+		"autor": {
+			"nombre":"Stephen King",
+			"nacimiento":{
+				"fecha":"21 de septiembre de 1947",
+				"ciudad":"Maine",
+				"pais": "Perú",
+			},
+			"biografia:":"Es un autor de novelas de terror muy populares, muchas de las cuales se han llevado al cine con notable éxito. Empezó a escribir a temprana edad, vendiendo sus cuentos a sus compañeros y posteriormente a enviar sus relatos a periódicos. Su primera novela fue Carrie en 1974, una historia sobre una joven con poderes psíquicos, la cual en un principio tiró a la basura, pero gracias a su esposa reanudó la historia y llegó a ser uno de sus grandes éxitos posteriormente, llevaba al cine.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/stephen-king-358.jpg"
+		},
+		"anho":"1990 (2017)",
+		"editorial":"Plaza & Janés",
+		"temas":"Terror",
+		"resumen":"Un virus gripal, creado artificialmente como posible arma bacteriológica, se extiende por Estados Unidos y el mundo, provocando la muerte de la mayor parte de la población. Los supervivientes tienen sueños comunes, en los que aparece una anciana y un hombre joven. La mujer anciana los incita a viajar a Nebraska para combatir a Randall Flagg, un abominable personaje que lidera las fuerzas del mal y busca la aniquilación definitiva de la humanidad mediante un temible arsenal nuclear.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/apocalipsis-2652.jpg"
+	},{
+		"titulo":"Travesuras de la niña mala",
+		"autor": {
+			"nombre":"Mario Vargas Llosa",
+			"nacimiento":{
+				"fecha":"28 de marzo de 1936",
+				"ciudad":"Arequipa",
+				"pais": "Perú",
+			},
+			"biografia:":"Autor, político y ensayista peruano, Mario Vargas Llosa es considerado como uno de los grandes autores del siglo XX, fundamental para las letras españolas y miembro destacado del boom latinoamericano. Su obra ha sido reconocida a nivel mundial con galardones tan importantes como el Premio Nobel de Literatura.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/mario-vargas-llosa-78.jpg"
+		},
+		"anho":"2006",
+		"editorial":"Alfaguara",
+		"temas":"Narrativa",
+		"resumen":"¿Cuál es el verdadero rostro del amor? Ricardo ve cumplido, a una edad muy temprana, el sueño que en su Lima natal alimentó desde que tenía uso de razón: vivir en París. Pero el rencuentro con un amor de adolescencia lo cambiará todo. La joven, inconformista, aventurera, pragmática e inquieta, lo arrastrará fuera del pequeño mundo de sus ambiciones.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/travesuras-de-la-nina-mala-486.jpg"
+	},{
+		"titulo":"Doce cuentos peregrinos",
+		"autor": {
+			"nombre":"Gabriel García Márquez",
+			"nacimiento":{
+				"fecha":"6 de marzo de 1927",
+				"ciudad":"Aracataca",
+				"pais": "Colombia",
+			},
+			"biografia:":"Destacó, sin duda como uno de los más grandes narradores de la literatura del siglo XX, pieza fundamental del conocido como boom latinoamericano, sobre todo por su trabajo dentro del realismo mágico. En 1982, García Márquez recibió el galardón más importante de su carrera, el Premio Nobel de Literatura, otorgado como reconocimiento a toda su obra.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/gabriel-garcia-marquez-5.jpg"
+		},
+		"anho":"1992",
+		"editorial":"Debolsillo",
+		"temas":"Narrativa",
+		"resumen":"El cuento no tiene principio ni fin: fragua o no fragua. Y si no fragua, la experiencia propia y la ajena enseñan que en la mayoría de las veces es más saludable empezarlo de nuevo por otro camino, o tirarlo a la basura.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/doce-cuentos-peregrinos-89.jpg"
+	},{
+		"titulo":"El juego de Gerald",
+		"autor": {
+			"nombre":"Stephen King",
+			"nacimiento":{
+				"fecha":"21 de septiembre de 1947",
+				"ciudad":"Maine",
+				"pais": "Perú",
+			},
+			"biografia:":"Es un autor de novelas de terror muy populares, muchas de las cuales se han llevado al cine con notable éxito. Empezó a escribir a temprana edad, vendiendo sus cuentos a sus compañeros y posteriormente a enviar sus relatos a periódicos. Su primera novela fue Carrie en 1974, una historia sobre una joven con poderes psíquicos, la cual en un principio tiró a la basura, pero gracias a su esposa reanudó la historia y llegó a ser uno de sus grandes éxitos posteriormente, llevaba al cine.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/stephen-king-358.jpg"
+		},
+		"anho":"1992 (2013)",
+		"editorial":"Plaza & Janés",
+		"temas":"Terror",
+		"resumen":"En una cabaña aislada, desnuda y esposada a la cabecera de la cama, Jessie asiste inerte al macabro desenlace del juego erótico de Gerald, el hombre con quien ha convivido durante veinte años y que ahora está tendido en el suelo junto al lecho, muerto. Sola, sin poder liberarse, acuciada por el hambre y la sed y asediada por los fantasmas del pasado, Jessie se enfrenta al desafío de sobrevivir a la situación, mientras va adquiriendo conciencia de que la realidad es aún más pavorosa que la peor de sus pesadillas.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-juego-de-gerald-2654.jpg"
+	},{
+		"titulo":"Inés del alma mía",
+		"autor": {
+			"nombre":"Isabel Allende",
+			"nacimiento":{
+				"fecha":"2 de agosto de 1942",
+				"ciudad":"Lima",
+				"pais": "Chile",
+			},
+			"biografia:":"Autora chilena, Isabel Allende nació en una familia de diplomáticos , siendo su padre embajador de Chile en Perú, debido a esto creció y estudió en países como Perú, Bolivia, Líbano o Chile, recibiendo educación privada de gran calidad en colegios estadounidenses.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/isabel-allende-151.jpg"
+		},
+		"anho":"2006 (2014)",
+		"editorial":"Plaza & Janés",
+		"temas":"Narrativa",
+		"resumen":"Esta novela está basada en la vida de Inés Suárez, una mujer extremeña cuyo esposo, Juan de Málaga, viaja al Nuevo Mundo en el s. XVI en busca de El Dorado. Años después ella decide ir en su búsqueda. Cuando recibe la noticia de que su esposo ha fallecido, se une al grupo de conquistadores que pretenden llegar a Chile.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/ines-del-alma-mia-1360.jpg"
+	},{
+		"titulo":"El retrato de Dorian Gray",
+		"autor": {
+			"nombre":"Oscar Wilde",
+			"nacimiento":{
+				"fecha":"16 de octubre de 1854",
+				"ciudad":"Dublín",
+				"pais": "Irlanda",
+			},
+			"biografia:":"Escritor, poeta y dramaturgo británico, famoso por su habitual ingenio y sarcasmo social. Nació en el año 1854 en Dublín, en una familia aristócrata  y siendo el mediano de tres hermanos, falleció en París en 1900.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/oscar-wilde-5234.jpg"
+		},
+		"anho":"1891 (2017)",
+		"editorial":"Alianza",
+		"temas":"Narrativa",
+		"resumen":"El famosos Dorian Gray, un hombre que encarna el mal y su castigo. El retrato de Dorian Gray es una de las piedras angulares en los debates entre la ética y la estética, el bien y el mal, el arte y la vida. Un clásico de la literatura que sigue asombrando a todo tipo de lectores.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-retrato-de-dorian-gray-8140.jpg"
+	},{
+		"titulo":"El resplandor",
+		"autor": {
+			"nombre":"Stephen King",
+			"nacimiento":{
+				"fecha":"21 de septiembre de 1947",
+				"ciudad":"Maine",
+				"pais": "Perú",
+			},
+			"biografia:":"Es un autor de novelas de terror muy populares, muchas de las cuales se han llevado al cine con notable éxito. Empezó a escribir a temprana edad, vendiendo sus cuentos a sus compañeros y posteriormente a enviar sus relatos a periódicos. Su primera novela fue Carrie en 1974, una historia sobre una joven con poderes psíquicos, la cual en un principio tiró a la basura, pero gracias a su esposa reanudó la historia y llegó a ser uno de sus grandes éxitos posteriormente, llevaba al cine.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/stephen-king-358.jpg"
+		},
+		"anho":"1977 (2017)",
+		"editorial":"Debolsillo",
+		"temas":"Terror",
+		"resumen":"REDRUM. Esa es la palabra que Danny había visto en el espejo. Y aunque no sabía leer, entendió que era un mensaje de horror. Danny tenía cinco años. Y a esa edad pocos niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM… MURDER, asesinato.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-resplandor-2637.jpg"
+	},{
+		"titulo":"Memorias de una geisha",
+		"autor": {
+			"nombre":"Arthur Golden",
+			"nacimiento":{
+				"fecha":"1956",
+				"ciudad":"Chattannogga",
+				"pais": "Estados Unidos",
+			},
+			"biografia:":"Escritor americano, Arthur Golden estudió Historia del Arte en la Universidad de Harvard, siendo especialista en Arte Japonés, estudios que complementó en Columbia y también en la Universidad de Beijing, donde aprendió chino mandarín. Más tarde vivió en Tokio durante varios años, adentrándose en la cultura japonesa.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/arthur_golden.jpeg"
+		},
+		"anho":"1996",
+		"editorial":"Suma de letras",
+		"temas":"Narrativa",
+		"resumen":"Entraremos un mundo secreto dominando por las pasiones y sostenido por las apariencias, donde sensualidad y belleza no pueden separarse de la degradación y el sometimiento: un mundo en el que las jóvenes aspirantes a geishas son duramente adiestradas en el arte de la seducción, en el que su virginidad se venderá al mejor postor y donde tendrán que convencerse de que, para ellas, el amor no es más que un espejismo.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/memorias-de-una-geisha-171.jpg"
+	},{
+		"titulo":"Once minutos",
+		"autor": {
+			"nombre":"Paulo Coelho",
+			"nacimiento":{
+				"fecha":"24 de agosto de 1947",
+				"ciudad":"Río de Janeiro",
+				"pais": "Brasil",
+			},
+			"biografia:":"Escritor y ensayista brasileño, Paulo Coelho es conocido por sus novelas de gran calado espiritual, con las que se ha convertido en uno de los autores de mayor éxito a nivel mundial. Sus obras han sido publicadas en prácticamente todo el mundo y las citas de sus textos se han convertido en algo habitual dentro de las redes sociales.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/paulo-coelho-15.jpg"
+		},
+		"anho":"2007",
+		"editorial":"Planeta",
+		"temas":"Narrativa",
+		"resumen":"Maria es de un pueblo al norte de Brasil. Todavía adolescente, viaja a Río de Janeiro, dónde conoce a un empresario que le ofrece un buen trabajo en Ginebra. Allí, Maria sueña con encontrar fama y fortuna pero acabará ejerciendo la prostitución. El aprendizaje que extraerá de sus duras experiencias modificará para siempre su actitud ante sí misma y ante la vida.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/once-minutos-197.jpg"
+	},{
+		"titulo":"La catedral del mar",
+		"autor": {
+			"nombre":"Ildefonso Falcones de Sierra",
+			"nacimiento":{
+				"fecha":"1958",
+				"ciudad":"Barcelona",
+				"pais": "España",
+			},
+			"biografia:":"A lo largo de su carrera, Falcones ha recibido numerosos premios y galardones, como el Euskadi de Plata, el Premio Qué Leer, el Fundación José Manuel Lara al libro más vendido y el Giovanni Bocaccio a mejor autor foráneo. Su obra ha sido traducida a más de 15 idiomas.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/ildefonso-falcones-51.jpg"
+		},
+		"anho":"2006",
+		"editorial":"Grijalbo",
+		"temas":"Histórica",
+		"resumen":"Siglo XIV. La ciudad de Barcelona se encuentra en su momento de mayor prosperidad; ha crecido hacia la Ribera, el humilde barrio de los pescadores, cuyos habitantes deciden construir, con el dinero de unos y el esfuerzo de otros, el mayor templo mariano jamás conocido: Santa María de la Mar. Una construcción que es paralela a la azarosa historia de Arnau, un siervo de la tierra que huye de los abusos de su señor feudal y se refugia en Barcelona, donde se convierte en ciudadano y, con ello, en hombre libre.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/la-catedral-del-mar-122.jpg"
+	},{
+		"titulo":"El perfume",
+		"autor": {
+			"nombre":"Patrick Süskind",
+			"nacimiento":{
+				"fecha":"26 de marzo de 1949",
+				"ciudad":"Ambach",
+				"pais": "Alemania",
+			},
+			"biografia:":"Escritor y guionista alemán, Patrick Süskind, su padre era un escritor francés, su madre una vendedora de cerámica y su hermano mayor periodista. Estudió Historia Medieval y Moderna en las universidades de Múnich y Aix-en-Provence, aunque nunca llegó a graduarse. Tras su época universitaria, Süskind se estableció en París donde se dedicó a la escritura de novela y guion, sin demasiado éxito editorial.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/patrick-suskind-38.jpg"
+		},
+		"anho":"2011",
+		"editorial":"Seix Barral",
+		"temas":"Narrativa",
+		"resumen":"Quizá los olores evoquen el privilegio de la invisibilidad. Antes del tacto, sucede el olor, como mensajero de una esencia que sabe desaparecer en el aire y ser agente de un gran poder. La seducción que despliega el olor es implacable: se instala en nosotros y sella su poderío en los tejidos de la memoria. Jean-Baptiste Grenouille tiene su marca de nacimiento: no despide ningún olor y por ello hace temer la presencia de algún demonio.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-perfume-48.jpg"
+	},{
+		"titulo":"El cuervo",
+		"autor": {
+			"nombre":"Edgar Allan Poe",
+			"nacimiento":{
+				"fecha":"19 de enero de 1809",
+				"ciudad":"Boston",
+				"pais": "Estados Unidos",
+			},
+			"biografia:":"Poeta, narrador, periodista y crítico literario americano, Edgar Allan Poe es conocido por su narrativa de terror, horror romántica y su maestría del relato de influencia gótica, siendo considerado uno de los grandes maestros de la literatura universal y padre del género detectivesco.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/edgar-allan-poe-316.jpg"
+		},
+		"anho":"1845 (2016)",
+		"editorial":"Brontes",
+		"temas":"Poesía",
+		"resumen":"El cuervo es un poema narrativo escrito por Edgar Allan Poe y su composición poética más famosa. Fue publicado por primera vez en enero de 1845. Son notables su musicalidad, su lenguaje estilizado y su atmósfera sobrenatural. Habla de la misteriosa visita de un cuervo parlante a la casa de un amante afligido y el lento descenso hacia la locura de este último.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-cuervo-1446.jpg"
+	},{
+		"titulo":"La bruja de Portobello",
+		"autor": {
+			"nombre":"Paulo Coelho",
+			"nacimiento":{
+				"fecha":"24 de agosto de 1947",
+				"ciudad":"Río de Janeiro",
+				"pais": "Brasil",
+			},
+			"biografia:":"Escritor y ensayista brasileño, Paulo Coelho es conocido por sus novelas de gran calado espiritual, con las que se ha convertido en uno de los autores de mayor éxito a nivel mundial. Sus obras han sido publicadas en prácticamente todo el mundo y las citas de sus textos se han convertido en algo habitual dentro de las redes sociales.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/paulo-coelho-15.jpg"
+		},
+		"anho":"2006 (2016)",
+		"editorial":"Planeta",
+		"temas":"Narrativa",
+		"resumen":"Athena es una mujer con un don de la naturaleza. Hija adoptiva de una mujer libanesa y un próspero industrial de Beirut, se traslada a vivir a Londres con su familia poco después que estalle la guerra en su país. En la universidad conoce al que se convertirá en padre de su hijo pero las dificultades que atraviesa la joven hacen que el matrimonio pronto se rompa.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/la-bruja-de-portobello-5968.jpg"
+	},{
+		"titulo":"La casa de los espíritus",
+		"autor": {
+			"nombre":"Isabel Allende",
+			"nacimiento":{
+				"fecha":"2 de agosto de 1942",
+				"ciudad":"Lima",
+				"pais": "Chile",
+			},
+			"biografia:":"Autora chilena, Isabel Allende nació en una familia de diplomáticos , siendo su padre embajador de Chile en Perú, debido a esto creció y estudió en países como Perú, Bolivia, Líbano o Chile, recibiendo educación privada de gran calidad en colegios estadounidenses.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/isabel-allende-151.jpg"
+		},
+		"anho":"1982 (2017)",
+		"editorial":"Plaza & Janés",
+		"temas":"Narrativa",
+		"resumen":"La casa de los espíritus narra la saga de una poderosa familia de terratenientes latinoamericanos. El despótico patriarca Esteban Trueba ha construido, con mano de hierro, un imperio privado que empieza a tambalearse a raíz del paso del tiempo y de un entorno social explosivo. Finalmente, la decadencia personal del patriarca arrastrará a los Trueba a una dolorosa desintegración. Atrapados en unas dramáticas relaciones familiares, los personajes de esta portentosa novela encarnan las tensiones sociales y espirituales de una época que abarca gran parte de este siglo.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/la-casa-de-los-espiritus-1265.jpg"
+	},{
+		"titulo":"Cien años de soledad",
+		"autor": {
+			"nombre":"Gabriel García Márquez",
+			"nacimiento":{
+				"fecha":"6 de marzo de 1927",
+				"ciudad":"Aracataca",
+				"pais": "Colombia",
+			},
+			"biografia:":"Destacó, sin duda como uno de los más grandes narradores de la literatura del siglo XX, pieza fundamental del conocido como boom latinoamericano, sobre todo por su trabajo dentro del realismo mágico. En 1982, García Márquez recibió el galardón más importante de su carrera, el Premio Nobel de Literatura, otorgado como reconocimiento a toda su obra.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/gabriel-garcia-marquez-5.jpg"
+		},
+		"anho":"2007",
+		"editorial":"Alfaguara",
+		"temas":"Narrativa",
+		"resumen":"Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Con estas palabras empieza una novela ya legendaria en los anales de la literatura universal, una de las aventuras literarias más fascinantes de nuestro siglo. Millones de ejemplares de Cien años de Soledad leídos en todas las lenguas y el premio Nobel de Literatura coronando una obra que se había abierto paso boca a boca.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/cien-anos-de-soledad-10.jpg"
+	},{
+		"titulo":"Insomnia",
+		"autor": {
+			"nombre":"Stephen King",
+			"nacimiento":{
+				"fecha":"21 de septiembre de 1947",
+				"ciudad":"Maine",
+				"pais": "Perú",
+			},
+			"biografia:":"Es un autor de novelas de terror muy populares, muchas de las cuales se han llevado al cine con notable éxito. Empezó a escribir a temprana edad, vendiendo sus cuentos a sus compañeros y posteriormente a enviar sus relatos a periódicos. Su primera novela fue Carrie en 1974, una historia sobre una joven con poderes psíquicos, la cual en un principio tiró a la basura, pero gracias a su esposa reanudó la historia y llegó a ser uno de sus grandes éxitos posteriormente, llevaba al cine.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/stephen-king-358.jpg"
+		},
+		"anho":"1994 (2012)",
+		"editorial":"Plaza & Janés",
+		"temas":"Terror",
+		"resumen":"Ralph Roberts, a sus 70 años y tras la muerte de su mujer, siente que su vida se acaba. ¿Quizá su reciente viudez, unida a un persistente insomnio, sea la causa de esa nueva sensibilidad visual que, poco a poco, le permite ver el más allá de las personas? A Ralph le preocupa este hecho, no menos que el súbito e inexplicable comportamiento, irracional y violento, de alguno de sus vecinos. Bajo la calma superficie de la pequeña ciudad de Derry, algo parece estar cambiando. Y no para bien.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/insomnia-2656.jpg"
+	},{
+		"titulo":"Los crímenes de Alicia",
+		"autor": {
+			"nombre":"Guillermo Martínez",
+			"nacimiento":{
+				"fecha":"29 de julio de 1962",
+				"ciudad":"Bahía Blanca",
+				"pais": "Argentina",
+			},
+			"biografia:":"Estudió Matemáticas en la Universidad del Sur, completando su formación académica primero en Buenos Aires, donde se doctoró en Lógica, y más tarde en Oxford. Sin embargo, la gran pasión del autor argentino ha sido siempre la creación literaria. Tras sus estudios, pasó varios años como artista residente en universidades de Canadá y Estados Unidos, asistiendo al conocido programa de escritura creativa de la Universidad de Iowa.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/guillermo-martinez-2338.jpg"
+		},
+		"anho":"2019",
+		"editorial":"Destino",
+		"temas":"Misterio y suspense",
+		"resumen":"Oxford, 1994. La Hermandad Lewis Carroll decide publicar los diarios privados del autor de Alicia en el país de las maravillas. Kristen Hill, una joven becaria, viaja para reunir los cuadernos originales y descubre la clave de una página que fue misteriosamente arrancada. Pero Kristen no logra llegar con su descubrimiento a la reunión de la Hermandad. Una serie de crímenes se desencadena con el propósito aparente de impedir, una y otra vez, que el secreto de esa página salga a la luz. ¿Quién quiere matar al mensajero? ¿Cuál es el verdadero patrón que se esconde tras esta sucesión de crímenes? ¿Quién y por qué está utilizando el libro de Alicia para matar?",
+		"portada":"https://3a8i3.github.io/libros/img/libros/los-crimenes-de-alicia-98843.jpg"
+	},{
+		"titulo":"El psicoanalista",
+		"autor": {
+			"nombre":"John Katzenbach",
+			"nacimiento":{
+				"fecha":"23 de junio de 1950",
+				"ciudad":"Princeton",
+				"pais": "Estados Unidos",
+			},
+			"biografia:":"Estudió periodismo antes de dedicarse a la literatura. Su experiencia en el campo de la información criminal y de sucesos en diarios como The Miami Herald o el Miami News le permitió una excelente formación para sus novelas de intriga y misterio. Además, Katzenbach ha colaborado con otros medios tan prestigiosos como The Philadelphia Enquirer, el Washington Post o el New York Times.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/guillermo-martinez-2338.jpg"
+		},
+		"anho":"2010",
+		"editorial":"Zeta Bolsillo",
+		"temas":"Misterio y suspense",
+		"resumen":"-Feliz 53 cumpleaños, doctor. Bienvenido al primer día de su muerte. Pertenezco a algún momento de su pasado. Usted arruinó mi vida. Quizá no sepa cómo por qué o cuándo, pero lo hizo. Llenó todos mis instantes de desastre y tristeza. Arruinó mi vida. Y ahora estoy decidido a arruinar la suya. Así comienza el anónimo que recibe Fredrerick Starks, psicoanalista con una larga experiencia y una tranquila vida cotidiana. Starks tendrá que emplear toda su astucia y rapidez para, en quince días, averiguar quién es el autor de esa amenazadora misiva que promete hacerle la existencia imposible.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/el-psicoanalista.jpg"
+	},{
+		"titulo":"Jaque al psicoanalista",
+		"autor": {
+			"nombre":"John Katzenbach",
+			"nacimiento":{
+				"fecha":"23 de junio de 1950",
+				"ciudad":"Princeton",
+				"pais": "Estados Unidos",
+			},
+			"biografia:":"Estudió periodismo antes de dedicarse a la literatura. Su experiencia en el campo de la información criminal y de sucesos en diarios como The Miami Herald o el Miami News le permitió una excelente formación para sus novelas de intriga y misterio. Además, Katzenbach ha colaborado con otros medios tan prestigiosos como The Philadelphia Enquirer, el Washington Post o el New York Times.",
+			"foto":"https://3a8i3.github.io/libros/img/autores/guillermo-martinez-2338.jpg"
+		},
+		"anho":"2018",
+		"editorial":"Zeta Bolsillo",
+		"temas":"Policíaca y Espionaje",
+		"resumen":"Han pasado cinco años desde que el doctor Starks acabó con la pesadilla que casi le cuesta la vida y que arrasó con todo lo que había sido hasta entonces, descubriéndole las facetas más oscuras del alma humana, también la suya. Desde entonces, ha logrado reconstruir su vida profesional y vuelve a ejercer de psicoanalista instalado en Miami y atendiendo a adolescentes con graves problemas psicológicos y también a pacientes adinerados de la sociedad de Florida. Sin embargo, una noche, cuando entra en su consulta, descubre tumbado en el diván a aquel al que había dado por muerto: Rumplestilskin ha vuelto y esta vez no busca acabar con él sino solicitar su ayuda. Por supuesto, no va a aceptar un no por respuesta.",
+		"portada":"https://3a8i3.github.io/libros/img/libros/jaque-al-psicoanalista.jpg"
+	}
+]
