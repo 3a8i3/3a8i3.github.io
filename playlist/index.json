@@ -3,56 +3,56 @@
 		"musica": "Samson et Dalila Op 47 Act II",
 		"artista": "Maria Callas",
 		"anho":"1996",
-		"portada":"https://3a8i3.github.io/img/samson.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/samson.jpg",
 		"genero":"Opera",
-		"audio":"https://3a8i3.github.io/msc/sanson.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/sanson.mp3"
 	},
 	{
 		"musica": "Symphony Of Destruction",
 		"artista": "Megadeth",
 		"anho":"1992",
-		"portada":"https://3a8i3.github.io/img/sod.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/sod.jpg",
 		"genero":"Thrash-metal",
-		"audio":"https://3a8i3.github.io/msc/sod.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/sod.mp3"
 	},
 	{
 		"musica": "Concerto N. 4 en sol mayor - Allegro",
 		"artista": "Johann Sebastian Bach",
 		"anho":"1721",
-		"portada":"https://3a8i3.github.io/img/bach.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/bach.jpg",
 		"genero":"Sinfonica",
-		"audio":"https://3a8i3.github.io/msc/bach.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/bach.mp3"
 	},
 	{
 		"musica": "Hard Working Man",
 		"artista": "Left Lane Cruiser",
 		"anho":"2009",
-		"portada":"https://3a8i3.github.io/img/left.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/left.jpg",
 		"genero":"Blues-rock",
-		"audio":"https://3a8i3.github.io/msc/hardwm.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/hardwm.mp3"
 	},
 	{
 		"musica": "Le veau d´or est toujours debout",
 		"artista": " Boris Christoff",
 		"anho":"1958",
-		"portada":"https://3a8i3.github.io/img/veau_d'or.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/veau_d'or.jpg",
 		"genero":"Opera",
-		"audio":"https://3a8i3.github.io/msc/leveau.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/leveau.mp3"
 	},
 	{
 		"musica": "Black Dog",
 		"artista": "Led Zeppelin",
 		"anho":"1971",
-		"portada":"https://3a8i3.github.io/img/blackDog.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/blackDog.jpg",
 		"genero":"Blues-rock",
-		"audio":"https://3a8i3.github.io/msc/blackdog.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/blackdog.mp3"
 	},
 	{
 		"musica": "Duality",
 		"artista": "Slipknot",
 		"anho":"2003",
-		"portada":"https://3a8i3.github.io/img/duality.jpg",
+		"portada":"https://3a8i3.github.io/playlist/img/duality.jpg",
 		"genero":"Nu-metal",
-		"audio":"https://3a8i3.github.io/msc/Duality.mp3"
+		"audio":"https://3a8i3.github.io/playlist/msc/Duality.mp3"
 	}
 ]
