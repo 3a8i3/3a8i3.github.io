@@ -3,81 +3,66 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Datos JSON</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </head>
-<style type="text/css">
-	body{
-		width: 75%;
-		margin: 0px auto;
-		padding: 50px 50px;
-		box-shadow: 0 0 8px 2px grey;
-	}
-	section{
-		display: inline-flex;
-	}
-	article{
-		width: 400px;
-		padding: 20px;
-		box-shadow: 0 0 8px 2px grey;
-		border: 1px solid grey;
-		border-radius: 5px;
-		margin-left: 50px;
-	}
-	pre{
-		position: relative;
-		left: -80%;
-		top: 0px;
-	}
-</style>
-<body>
+<body class="container">
 	<H3 align="center">Datos JSON para prácticas</H3>
 	<p align="center">Esta página devuelve datos en formato JSON para realizar prácticas de consumo de API's REST, utilizando AJAX</p>
-	<section>
-		<article>
-			<H4>API Libros: <code>/libros</code></H4>
+	<section class="row">
+		<article class="col-sm-5">
+			<H4>API Libros: <a href="https://3a8i3.github.io/libros"><code>/libros</code></a></H4>
 			<p>
 				Devuelve veinte libros con los siguientes datos: <br><br>
 				<strong>Ejemplo</strong> <br>
 				<pre>
-					[{ <br>
-						"titulo": "String", <br>
-						"autor": { <br>
-							"nombre": "String", <br>
-							"nacimiento": { <br>
-								"fecha": "String", <br>
-								"ciudad": "String", <br>
-								"pais": "String", <br>
-							}, <br>
-							biografia: "String", <br>
-							"foto": "url" <br>
-						}, <br>
-						"anho": "String", <br>
-						"editorial": "String", <br>
-						"temas": "String", <br>
-						"resumen": "String", <br>
-						"portada": "url" <br>
-					},  <br>
-					{ ... } ]
+[{ <br>
+	"titulo": "String", <br>
+	"autor": { <br>
+		"nombre": "String", <br>
+		"nacimiento": { <br>
+			"fecha": "String", <br>
+			"ciudad": "String", <br>
+			"pais": "String", <br>
+		}, <br>
+		biografia: "String", <br>
+		"foto": "url" <br>
+	}, <br>
+	"anho": "String", <br>
+	"editorial": "String", <br>
+	"temas": "String", <br>
+	"resumen": "String", <br>
+	"portada": "url" <br>
+},  <br>
+{ ... } ]
 				</pre>
 			</p>
 		</article>
-		<article>
-			<H4>API Playlis: <code>/playlist</code></H4>
+		<article class="col-sm-5">
+			<H4>API Playlis: <a href="https://3a8i3.github.io/playlist"><code>/playlist</code></a></H4>
 			<p>
 				Devuelve siete músicas con los siguientes datos: <br><br>
 				<strong>Ejemplo</strong> <br>
 				<pre>
-					[{ <br>
-						"musica": "String", <br>
-						"artista": "String", <br>
-						"anho":"String", <br>
-						"portada":"url", <br>
-						"genero":"String", <br>
-						"audio":"url" <br>
-					}, <br>
-					{ .. }]
+[{ <br>
+	"musica": "String", <br>
+	"artista": "String", <br>
+	"anho":"String", <br>
+	"portada":"url", <br>
+	"genero":"String", <br>
+	"audio":"url" <br>
+}, <br>
+{ .. }]
 				</pre>
 			</p>
 		</article>
 	</section>
+
+	<style type="text/css">
+		
+		article{
+			margin-left: 20px;
+		}
+
+	</style>
 </body>
 </html>
