@@ -1,0 +1,201 @@
+[{
+	"id" : 1,
+	"nombre" : "Rick Sanchez",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+},{
+	"id" : 2,
+	"nombre" : "Morty Smith",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+},{
+	"id" : 3,
+	"nombre" : "Summer Smith",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Femenino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+},{
+	"id" : 4,
+	"nombre" : "Beth Smith",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Femenino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+},{
+	"id" : 5,
+	"nombre" : "Jerry Smith",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+},{
+	"id" : 6,
+	"nombre" : "Abadango Cluster Princess",
+	"estado" : "Vivo",
+	"especie" : "Alien",
+	"genero" : "Femenino",
+	"ubicacion" : "Abadango",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+},{
+	"id" : 7,
+	"nombre" : "Abradolf Lincler",
+	"estado" : "Desconocido",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+},{
+	"id" : 8,
+	"nombre" : "Adjudicator Rick",
+	"estado" : "Muerto",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+},{
+	"id" : 9,
+	"nombre" : "Director de la agencia",
+	"estado" : "Muerto",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra (dimensión alternativa)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+},{
+	"id" : 10,
+	"nombre" : "Alan Rails",
+	"estado" : "Muerto",
+	"especie" : "Super humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Worldender's lair",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+},{
+	"id" : 11,
+	"nombre" : "Albert Einstein",
+	"estado" : "Muerto",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra (dimensión alternativa)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+},{
+	"id" : 12,
+	"nombre" : "Alexander",
+	"estado" : "Muerto",
+	"especie" : "Humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra (anatomy park)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+},{
+	"id" : 13,
+	"nombre" : "Alien Googah",
+	"estado" : "Desconocido",
+	"especie" : "Alien",
+	"genero" : "Desconocido",
+	"ubicacion" : "Desconocido (dimensión alternativa)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+},{
+	"id" : 14,
+	"nombre" : "Alien Morty",
+	"estado" : "Desconocido",
+	"especie" : "Alien",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+},{
+	"id" : 15,
+	"nombre" : "Alien Rick",
+	"estado" : "Desconocido",
+	"especie" : "Alien",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+},{
+	"id" : 16,
+	"nombre" : "Amish Cyborg",
+	"estado" : "Muerto",
+	"especie" : "Alien",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra (dimensión alternativa)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+},{
+	"id" : 17,
+	"nombre" : "Annie",
+	"estado" : "Vivo",
+	"especie" : "Humano",
+	"genero" : "Femenino",
+	"ubicacion" : "Tierra (anatomy park)",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+},{
+	"id" : 18,
+	"nombre" : "Antenna Morty",
+	"estado" : "Vivo",
+	"especie" : "Humano con antena",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+},{
+	"id" : 19,
+	"nombre" : "Antenna Rick",
+	"estado" : "Desconocido",
+	"especie" : "Humano con antena",
+	"genero" : "Masculino",
+	"ubicacion" : "Desconocido",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+},{
+	"id" : 20,
+	"nombre" : "Ants in my Eyes Johnson",
+	"estado" : "Desconocido",
+	"especie" : "Humano con hormigas en sus ojos",
+	"genero" : "Masculino",
+	"ubicacion" : "Cable interdimensional",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+},{
+	"id" : 21,
+	"nombre" : "Aqua Morty",
+	"estado" : "Desconocido",
+	"especie" : "Pez-humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+},{
+	"id" : 22,
+	"nombre" : "Aqua Rick",
+	"estado" : "Desconocido",
+	"especie" : "Pez-humano",
+	"genero" : "Masculino",
+	"ubicacion" : "Sindicato de Ricks",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+},{
+	"id" : 23,
+	"nombre" : "Arcade Alien",
+	"estado" : "Desconocido",
+	"especie" : "Alien",
+	"genero" : "Masculino",
+	"ubicacion" : "Immortality Field Resort",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+},{
+	"id" : 24,
+	"nombre" : "Armagheadon",
+	"estado" : "Vivo",
+	"especie" : "Alien",
+	"genero" : "Masculino",
+	"ubicacion" : "Signus 5 Expanse",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+},{
+	"id" : 25,
+	"nombre" : "Armothy",
+	"estado" : "Muerto",
+	"especie" : "Desconocido",
+	"genero" : "Masculino",
+	"ubicacion" : "Tierra post-apocaliptica",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+}]
