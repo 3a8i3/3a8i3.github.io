@@ -68,7 +68,7 @@
 	"estado" : "Muerto",
 	"especie" : "Humano",
 	"genero" : "Masculino",
-	"ubicacion" : "Dimensión alternativa",
+	"ubicacion" : "Tierra (dimensión alternativa)",
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
 },{
 	"id" : 10,
@@ -84,7 +84,7 @@
 	"estado" : "Muerto",
 	"especie" : "Humano",
 	"genero" : "Masculino",
-	"ubicacion" : "Dimensión alternativa",
+	"ubicacion" : "Tierra (dimensión alternativa)",
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
 },{
 	"id" : 12,
@@ -100,7 +100,7 @@
 	"estado" : "Desconocido",
 	"especie" : "Alien",
 	"genero" : "Desconocido",
-	"ubicacion" : "Dimensión alternativa",
+	"ubicacion" : "Desconocido (dimensión alternativa)",
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
 },{
 	"id" : 14,
@@ -124,7 +124,7 @@
 	"estado" : "Muerto",
 	"especie" : "Alien",
 	"genero" : "Masculino",
-	"ubicacion" : "Dimensión alternativa",
+	"ubicacion" : "Tierra (dimensión alternativa)",
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
 },{
 	"id" : 17,
@@ -154,7 +154,7 @@
 	"id" : 20,
 	"nombre" : "Ants in my Eyes Johnson",
 	"estado" : "Desconocido",
-	"especie" : "Humano raro",
+	"especie" : "Humano con hormigas en sus ojos",
 	"genero" : "Masculino",
 	"ubicacion" : "Cable interdimensional",
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
