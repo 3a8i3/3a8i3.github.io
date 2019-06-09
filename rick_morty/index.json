@@ -144,12 +144,12 @@
 	"imagen" : "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
 },{
 	"id" : 19,
-	"nombre" : "Antenna Rick",
-	"estado" : "Desconocido",
-	"especie" : "Humano con antena",
-	"genero" : "Masculino",
-	"ubicacion" : "Desconocido",
-	"imagen" : "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+	"nombre" : "Arthricia",
+	"estado" : "Vivo",
+	"especie" : "Alien",
+	"genero" : "Femenino",
+	"ubicacion" : "Purge Planet",
+	"imagen" : "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
 },{
 	"id" : 20,
 	"nombre" : "Ants in my Eyes Johnson",
