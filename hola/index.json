@@ -1,4 +1,4 @@
 {
-	"Saludo": "Hola mundo desde AJAX",
+	"saludo": "Hola mundo desde AJAX",
 	"imagen": "https://davidruizdiaz.github.io/hola/imagen-hola.jpg"
 }
