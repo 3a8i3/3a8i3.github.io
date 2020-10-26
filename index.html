@@ -6,11 +6,11 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </head>
 <body class="container">
-	<H3 align="center">Datos JSON para prácticas</H3>
+	<h3 align="center">Datos JSON para prácticas</h3>
 	<p align="center">Esta página devuelve datos en formato JSON para realizar prácticas de consumo de API's REST, utilizando AJAX</p>
 	<section class="row">
 		<article class="col-sm-5">
-			<H4>API Libros: <a href="https://3a8i3.github.io/libros"><code>/libros</code></a></H4>
+			<h4>API Libros: <a href="https://davidruizdiaz.github.io/libros"><code>/libros</code></a></h4>
 			<p>
 				Devuelve veinte libros con los siguientes datos: <br><br>
 				<strong>Ejemplo</strong> <br>
@@ -38,7 +38,7 @@
 			</p>
 		</article>
 		<article class="col-sm-5">
-			<H4>API Playlis: <a href="https://3a8i3.github.io/playlist"><code>/playlist</code></a></H4>
+			<h4>API Playlis: <a href="https://davidruizdiaz.github.io/playlist"><code>/playlist</code></a></h4>
 			<p>
 				Devuelve siete músicas con los siguientes datos: <br><br>
 				<strong>Ejemplo</strong> <br>
